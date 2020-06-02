@@ -1,0 +1,13 @@
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gorilla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gorilla\\.nuget\\packages"
+    ]
+  }
+}

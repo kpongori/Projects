@@ -1,0 +1,13 @@
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

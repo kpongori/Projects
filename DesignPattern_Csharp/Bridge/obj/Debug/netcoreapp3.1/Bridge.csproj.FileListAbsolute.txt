@@ -1,0 +1,13 @@
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

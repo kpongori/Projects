@@ -1,0 +1,13 @@
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

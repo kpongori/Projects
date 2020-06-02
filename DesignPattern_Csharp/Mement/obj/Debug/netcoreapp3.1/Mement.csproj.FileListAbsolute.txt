@@ -1,0 +1,13 @@
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.csprojAssemblyReference.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.AssemblyInfoInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.AssemblyInfo.cs
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.csproj.CoreCompileInputs.cache
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.exe
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.deps.json
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.runtimeconfig.json
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.runtimeconfig.dev.json
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\bin\Debug\netcoreapp3.1\Mement.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.dll
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.pdb
+C:\Users\Gorilla\Desktop\DesignPattern\Mement\obj\Debug\netcoreapp3.1\Mement.genruntimeconfig.cache
